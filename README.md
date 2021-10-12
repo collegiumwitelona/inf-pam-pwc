@@ -12,7 +12,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #5 | wtorek | 2021-11-02 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #6 | wtorek | 2021-11-09 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #7 | wtorek | 2021-11-16 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
-| #8 | wtorek | 2021-11-23 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
+| #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) - Redux- Czym jest i dlaczego warto go używać? <br> @ - TBA <br> @ - TBA |
 | #9 | wtorek | 2021-11-30 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
