@@ -9,7 +9,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #2 | wtorek | 2021-10-12 | 13:30 | *przygotowanie prezentacji* |
 | #3 | wtorek | 2021-10-19 | 13:30 | *przygotowanie prezentacji*  |
 | #4 | wtorek | 2021-10-26 | 13:30 | *przygotowanie prezentacji*  |
-| #5 | wtorek | 2021-11-02 | 13:30 | @ - TBA <br> @ - TBA <br> [@andrzejlech](https://github.com/AndrzejLech) - Kasspresso |
+| #5 | wtorek | 2021-11-02 | 13:30 | [@mikolajgawronski](https://github.com/mikolajgawronski) - Elasticsearch <br> @[mateuszlesniara](https://github.com/Overnerfed) - The Composable Architecture <br> [@andrzejlech](https://github.com/AndrzejLech) - Kasspresso |
 | #6 | wtorek | 2021-11-09 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #7 | wtorek | 2021-11-16 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #8 | wtorek | 2021-11-23 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
