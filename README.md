@@ -14,7 +14,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #7 | wtorek | 2021-11-16 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) - Redux <br> @ - TBA <br> @ - TBA |
 | #9 | wtorek | 2021-11-30 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
-| #10 | wtorek | 2021-12-07 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
+| #10 | wtorek | 2021-12-07 | 13:30 | @ - TBA <br>[@AdrianHopek](https://github.com/Baakoma) - Tailwind CSS <br> @ - TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #12 | wtorek | 2021-12-21 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #13 | wtorek | 2022-01-04 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
