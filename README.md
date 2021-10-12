@@ -16,7 +16,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #6 | wtorek | 2021-11-09 | 13:30 | @ | TBA |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@krzysztofpicur](https://github.com/mightykit) | Jenkins  |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@PatrykZym](https://github.com/rewe999) | Mikroserwisy |
-| #7 | wtorek | 2021-11-16 | 13:30 | @ | TBA |
+| #7 | wtorek | 2021-11-16 | 13:30 | [@robertklinger](https://github.com/Eater0) | SEO |
 | #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) | Redux |
 | #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
 | #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
