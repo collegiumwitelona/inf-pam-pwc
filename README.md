@@ -5,7 +5,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 
 | # | dzień | data | godzina | prezentacja |
 | --- | --- | --- | --- | --- |
-| #1 | wtorek | 2021-10-05 | 15:15 | @krzysztofrewak - Wstęp do seminarium |
+| #1 | wtorek | 2021-10-05 | 15:15 | [@krzysztofrewak](https://github.com/krzysztofrewak) - Wstęp do seminarium |
 | #2 | wtorek | 2021-10-12 | 13:30 | *przygotowanie prezentacji* |
 | #3 | wtorek | 2021-10-19 | 13:30 | *przygotowanie prezentacji*  |
 | #4 | wtorek | 2021-10-26 | 13:30 | *przygotowanie prezentacji*  |
