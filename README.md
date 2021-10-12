@@ -21,7 +21,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
 | #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
 | #9 | wtorek | 2021-11-30 | 13:30 | @ | TBA |
-| #9 | wtorek | 2021-11-30 | 13:30 | @ | TBA |
+| #9 | wtorek | 2021-11-30 | 13:30 | [@AndrzejWojciak](https://github.com/andrzejwojciak) | Clean Architecture |
 | #9 | wtorek | 2021-11-30 | 13:30 | @ | TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | @ | TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | [@AdrianHopek](https://github.com/Baakoma) | Tailwind CSS |
