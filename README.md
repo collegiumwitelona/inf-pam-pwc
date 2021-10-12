@@ -10,9 +10,9 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #3 | wtorek | 2021-10-19 | 13:30 | *przygotowanie prezentacji*  |
 | #4 | wtorek | 2021-10-26 | 13:30 | *przygotowanie prezentacji*  |
 | #5 | wtorek | 2021-11-02 | 13:30 | [@mikolajgawronski](https://github.com/mikolajgawronski) - Elasticsearch <br> [@mateuszlesniara](https://github.com/Overnerfed) - The Composable Architecture <br> [@andrzejlech](https://github.com/AndrzejLech) - Kasspresso |
-| #6 | wtorek | 2021-11-09 | 13:30 | [@JakubMalinowski](https://github.com/not-raspy) - Kryptowaluty <br> [@AleksandraMikolajek](https://github.com/Ola-M) - TypeScript <br> @ - TBA |
+| #6 | wtorek | 2021-11-09 | 13:30 | [@JakubMalinowski](https://github.com/not-raspy) - kryptowaluty <br> [@AleksandraMikolajek](https://github.com/Ola-M) - TypeScript <br> @ - TBA |
 | #7 | wtorek | 2021-11-16 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
-| #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) - Redux- Czym jest i dlaczego warto go używać? <br> @ - TBA <br> @ - TBA |
+| #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) - Redux <br> @ - TBA <br> @ - TBA |
 | #9 | wtorek | 2021-11-30 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ - TBA <br> @ - TBA <br> @ - TBA |
