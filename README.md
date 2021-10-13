@@ -25,7 +25,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9 | wtorek | 2021-11-30 | 13:30 | @ | TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | @ | TBA |
 | #10 | wtorek | 2021-12-07 | 13:30 | [@AdrianHopek](https://github.com/Baakoma) | Tailwind CSS |
-| #10 | wtorek | 2021-12-07 | 13:30 | @ | TBA |
+| #10 | wtorek | 2021-12-07 | 13:30 | [@dawidrudnik](https://github.com/dawidrudnik) | GitHub Actions |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
