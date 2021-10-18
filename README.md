@@ -30,7 +30,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
 | #12 | wtorek | 2021-12-21 | 13:30 | @ | TBA |
-| #12 | wtorek | 2021-12-21 | 13:30 | @ | TBA |
+| #12 | wtorek | 2021-12-21 | 13:30 | [@AgnieszkaRudek](https://github.com/Blusia) | Makiety UX/UI |
 | #12 | wtorek | 2021-12-21 | 13:30 | @ | TBA |
 | #13 | wtorek | 2022-01-04 | 13:30 | @ | TBA |
 | #13 | wtorek | 2022-01-04 | 13:30 | @ | TBA |
