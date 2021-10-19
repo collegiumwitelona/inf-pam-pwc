@@ -18,7 +18,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #7 | wtorek | 2021-11-16 | 13:30 | [@PatrykZym](https://github.com/rewe999) | Mikroserwisy |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@robertklinger](https://github.com/Eater0) | SEO |
 | #8 | wtorek | 2021-11-23 | 13:30 | [@BartoszSkrabka](https://github.com/Skrabka98) | Redux |
-| #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
+| #8 | wtorek | 2021-11-23 | 13:30 | [@KamilMaciuszek](https://github.com/KamilMaciuszek) | Jetpack Compose |
 | #8 | wtorek | 2021-11-23 | 13:30 | @ | TBA |
 | #9 | wtorek | 2021-11-30 | 13:30 | [@KamilNahotko](https://github.com/kamilnahotko) | Google Places API |
 | #9 | wtorek | 2021-11-30 | 13:30 | [@AndrzejWojciak](https://github.com/andrzejwojciak) | Clean Architecture |
