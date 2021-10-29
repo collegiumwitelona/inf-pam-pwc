@@ -27,7 +27,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #10 | wtorek | 2021-12-07 | 13:30 | [@AdrianHopek](https://github.com/Baakoma) | Tailwind CSS |
 | #10 | wtorek | 2021-12-07 | 13:30 | [@dawidrudnik](https://github.com/dawidrudnik) | GitHub Actions |
 | #11 | wtorek | 2021-12-14 | 13:30 | [@MateuszJacenty](https://github.com/Huszan) | Captcha |
-| #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
+| #11 | wtorek | 2021-12-14 | 13:30 | [@JakubJurycz](https://github.com/PythSomeone) | Heroku |
 | #11 | wtorek | 2021-12-14 | 13:30 | @ | TBA |
 | #12 | wtorek | 2021-12-21 | 13:30 | [@AnnaKaczmarczyk](https://github.com/annakaczmarczyk) | Flutter |
 | #12 | wtorek | 2021-12-21 | 13:30 | [@AgnieszkaRudek](https://github.com/Blusia) | Makiety UX/UI |
