@@ -13,7 +13,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #5 | wtorek | 2021-11-02 | 13:30 | [@andrzejlech](https://github.com/AndrzejLech) | Kasspresso |
 | #6 | wtorek | 2021-11-09 | 13:30 | [@JakubMalinowski](https://github.com/not-raspy) | kryptowaluty |
 | #6 | wtorek | 2021-11-09 | 13:30 | [@AleksandraMikolajek](https://github.com/Ola-M) | TypeScript |
-| #6 | wtorek | 2021-11-09 | 13:30 | @ | TBA |
+| #6 | wtorek | 2021-11-09 | 13:30 | [@DamianGrzelak](https://github.com/lolsky) | GraphQL |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@krzysztofpicur](https://github.com/mightykit) | Jenkins  |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@PatrykZym](https://github.com/rewe999) | Mikroserwisy |
 | #7 | wtorek | 2021-11-16 | 13:30 | [@robertklinger](https://github.com/Eater0) | SEO |
