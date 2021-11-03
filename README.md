@@ -33,7 +33,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #12 | wtorek | 2021-12-21 | 13:30 | [@AgnieszkaRudek](https://github.com/Blusia) | Makiety UX/UI |
 | #12 | wtorek | 2021-12-21 | 13:30 | [@MichalUlewski](https://github.com/Trefluuu) | Firebase |
 | #13 | wtorek | 2022-01-04 | 13:30 | [@MichałChojnacki](https://github.com/MichalChojnacki450) | Jak działają Hakerzy |
-| #13 | wtorek | 2022-01-04 | 13:30 | @ | TBA |
+| #13 | wtorek | 2022-01-04 | 13:30 | [@JakubWałęga](https://github.com/JW-39615) | Websockety |
 | #13 | wtorek | 2022-01-04 | 13:30 | @ | TBA |
 | #14 | wtorek | 2022-01-11 | 13:30 | @ | TBA |
 | #14 | wtorek | 2022-01-11 | 13:30 | @ | TBA |
