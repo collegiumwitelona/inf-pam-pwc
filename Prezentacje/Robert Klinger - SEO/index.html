@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="pl">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>SEO</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h3>SEO - optymalizacja dla wyszukiwarek internetowych</h3><br>
+					Robert Klinger, 39580
+				</section>
+				<section>
+					<h2>Plan prezentacji</h2>
+					<ol>
+						<li>Czym jest pozycjonowanie (SEO)?</li>
+						<li>Porównanie popularności wyszukiwarek</li>
+						<li>Rodzaje pozycjowania</li>
+						<li>Odpowiednie użycie znaczników</li>
+						<li>Dodatkowe tagi</li>
+						<li>Używanie atrybutu w image</li>
+						<li>Znaczniki semantyczne</li>
+						<li>Kompresja grafiki</li>
+						<li>Przyjazne adresy URL</li>
+					</ol>
+				</section>
+				<section>
+					<h2>Czym jest pozycjowanie?</h2>
+				</section>
+				<section class="flexRow">
+					<img class="img" alt="wyszukiwarka Google" src="images/Google1.jpg"/>
+					<img class="img" alt="wyszukiwarka Baidu" src="images/Baidu.jpg"/>
+				</section>
+				<section>
+					<h2>Porównanie popularności wyszukiwarek</h2>
+				</section>
+				<section>
+					<img id="img1" alt="porównanie popularności wyszukiwarek" src="https://www.reliablesoft.net/wp-content/uploads/2016/12/best-search-engine-oct-2020.png"/>
+				</section>
+				<section>
+					<h2>Rodzaje pozycjonowania</h2>
+				</section>
+				<section>
+					<img id="img2" alt="wyszukiwarka Google" src="images/Google2.jpg"/>
+				</section>
+				<section>
+					<h2>Odpowiednie użycie znaczników</h2>
+				</section>
+				<section>
+					<h2>NAGŁÓWKI</h2>
+					<pre data-id="code-animation"><code data-trim data-line-numbers><script type="text/template">
+						<h1>nh1</h1>
+							<h2>nh2</h2>
+							<h2>nh2</h2>
+								<h3>nh3</h3>
+								<h3>nh3</h3>
+									<h4>nh4</h4>
+									<h4>nh4</h4>
+									<h4>nh4</h4>
+									<h4>nh4</h4>
+										<h5>nh5</h5>
+											<h6>h6</h6>
+										<h5>nh5</h5>
+					</script></code></pre>
+				</section>
+				<section>
+					<h2>MENU</h2>
+					<pre data-id="code-animation"><code data-trim data-line-numbers><script type="text/template">
+						<ul>
+							<li>Zakupy</li>
+							<li>Informacje</li>
+							<li>Pomoc</li>
+							<li>Konto</li>
+						</ul>
+					</script></code></pre>
+					<pre data-id="code-animation"><code data-trim data-line-numbers><script type="text/template">
+						<ol>
+							<li>Zakupy</li>
+							<li>Informacje</li>
+							<li>Pomoc</li>
+							<li>Konto</li>
+						</ol>
+					</script></code></pre>
+				</section>
+				<section>
+					<h2>ZNACZNIKI POGRUBIENIA I PODKREŚLENIA</h2>
+					<pre data-id="code-animation"><code data-trim data-line-numbers="1-3|1-2|3">><script type="text/template">
+						<span>Wystawiona ocena: <b>2</b></span>
+						<span>Egzamin odbędzie się <strong>29.11.2021</strong></span>
+						<span>Drwal pojawi się w McDonald'zie <u>24.11</u></span>
+					</script></code></pre>
+				</section>
+				<section>
+					<h2>DODATKOWE TAGI</h2>
+				</section>
+				<section>
+					<h2>W KODZIE</h2>
+					<pre data-id="code-animation"><code data-trim data-line-numbers="1-15|1|3|4|5-7|8-10|11-13">><script type="text/template">
+						<html lang="pl">
+							<head>
+								<meta charset="utf-8"/>
+								<title>Tytuł</title>
+								<meta name="description" 
+									content="Opis powinień zawierać do 155 - 160 znaków"
+								/>
+								<meta name="keywords"
+									content="słowa, kilka słów, również też sysnonimy"
+								/>
+								<meta http-equiv="X-UA-Compatible"
+									content="IE=edge, chrome=1"
+								/>
+							</head>
+						</html>
+					</script></code></pre>
+				</section>
+				<section>
+					<h2>PO STRONIE WYSZUKIWARKI</h2>
+					<img id="img3" alt="wyszukiwarka Google" src="images/Google3.jpg"/>
+				</section>
+				<section>
+					<h2>UŻYWANIE ATRYBUTU W IMAGE</h2>
+				</section>
+				<section>
+					<h2>W KODZIE</h2>
+					<pre data-id="code-animation"><code data-trim data-line-numbers>><script type="text/template">
+						<img alt="avatar" :src="avatarImage">
+					</script></code></pre>
+				</section>
+				<section>
+					<h2>PO STRONIE WITRYNY</h2>
+					<div class="flexRow">
+						<img class="img" alt="avatar działający" src="images/avatar1.jpg"/>
+						<img class="img" alt="avatar niedziałający" src="images/avatar2.jpg"/>
+					</div>
+				</section>
+				<section>
+					<h2>ZNACZNIKI SEMANTYCZNE</h2>
+				</section>
+				<section>
+					<h2>&ltHEADER&gt</h2>
+					<img alt="przedstawienie header" src="images/onet.jpg"/>
+				</section>
+				<section>
+					<h2>&ltNAV&gt</h2>
+					<img alt="przedstawienie nav" src="images/nvidia.jpg"/>
+				</section>
+				<section>
+					<h2 class="colorArticle">&ltARTICLE&gt</h2>
+					<img alt="przedstawienie main" src="images/semantic1.jpg"/>
+				</section>
+				<section>
+					<h2>
+						<span class="colorArticle">&ltARTICLE&gt</span>
+						 I
+						<span id="colorSection">&ltSECTION&gt</span>
+						 + 
+						 <span id="colorDiv">&ltDIV&gt</span>
+					</h2>
+					<img alt="przedstawienie main" src="images/semantic2.jpg"/>
+				</section>
+				<section>
+					<h2>&ltMAIN&gt</h2>
+					<img alt="przedstawienie aside" src="images/miroslawzalent2.jpg"/>
+				</section>
+				<section>
+					<h2>&ltASIDE&gt</h2>
+					<img alt="przedstawienie aside" src="images/miroslawzalent1.jpg"/>
+				</section>
+				<section>
+					<h2>&ltFOOTER&gt</h2>
+					<img alt="przedstawienie footer" src="images/pwsz.jpg"/>
+				</section>
+				<section>
+					<h2>KOMPRESJA ZDJĘCIA</h2>
+				</section>
+				<section class="flexRow">
+					<div class="flexColumn">
+						<img alt="grafika1" src="images/grafika1.png"/>
+						1920x1700
+						<span>.png</span>
+						<span>12.4 MB</span>
+					</div>
+					<div class="flexColumn">
+						<img alt="grafika2" src="images/grafika2.png"/>
+						790x700
+						<span>.png</span>
+						<span>2.11 MB</span>
+					</div>
+				</section>
+				<section class="flexRow">
+					<div id="flexColumn2">
+						<img alt="grafika3" src="images/grafika3.jpg"/>
+						790x700
+						<span>.jpg</span>
+						<span>112 KB</span>
+					</div>
+				</section>
+				<section>
+					<h2>PRZYJAZNE ADRESY URL</h2>
+				</section>
+				<section>
+					<img alt="przyjazny adres url" src="images/friendlyLink.jpg"/>
+					<img alt="nie przyjazny adres url" src="images/noFriendlyLink.jpg"/>
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: false,
+				controls: false,
+				progress: false,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
+
+<style>
+.flexRow {
+	display: flex !important;
+	justify-content: space-between;
+}
+.flexColumn {
+	width: 50%;
+
+	display: flex;
+	flex-direction: column;
+}
+#flexColumn2 {
+	margin-right: auto;
+	margin-left: auto;
+	
+	width: 50%;
+
+	display: flex;
+	flex-direction: column;
+}
+.img {
+	width: 48%;
+}
+#img1 {
+	width: 90%;
+}
+#img2 {
+	width: 67.5%;
+}
+#img3 {
+	width: 70%;
+}
+.colorArticle {
+	color: orange ;
+}
+#colorSection {
+	color: rgb(0, 183, 255);
+}
+#colorDiv {
+	color: rgb(182, 0, 182);
+}
+</style>
