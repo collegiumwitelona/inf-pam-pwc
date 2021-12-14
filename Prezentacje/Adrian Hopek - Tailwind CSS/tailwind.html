@@ -1,0 +1,188 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Tailwind CSS</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/white.css">
+    <link rel="stylesheet" href="plugin/highlight/monokai.css">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <img src="img/tailwind-logo.svg">
+        </section>
+        <section>
+            <h3>Czym jest Tailwind CSS?</h3>
+            <ul>
+                <li>framework do tworzenia frontendu</li>
+                <li>niedający nam gotowych komponentów</li>
+                <li>będący swego rodzaju "nakładka" na CSS</li>
+                <li>posiadający spore możliwości do customizacji</li>
+            </ul>
+        </section>
+        <section>
+            <section>
+                <h3>Przykład</h3>
+            </section>
+            <section>
+                <img src="img/example-1.png">
+            </section>
+            <section>
+                <img src="img/example-1-css.png">
+            </section>
+            <section>
+                <img src="img/example-1-tailwind.png">
+            </section>
+        </section>
+        <section>
+            <section>
+                <h3>Bootstrap vs Tailwind vs CSS</h3>
+            </section>
+            <section>
+                <h3>Bootstrap</h3>
+                <ul>
+                    <li>pakiet przygotowanych komponentów, które da się do pewnego stopnia konfigurować</li>
+                    <li>trochę klas pomocniczych, np. do paddingu</li>
+                    <li>grid system</li>
+                    <li>niektóre komponenty dostarczane razem z JS</li>
+                    <li>nie mamy aż takiej kontroli nad elementami</li>
+                    <li>dobry do szybkich/małych projektów, gdzie nie zależy nam aż tak na wyglądzie</li>
+                </ul>
+            </section>
+            <section>
+                <h3>CSS</h3>
+                <ul>
+                    <li>piszemy wszystko od zera</li>
+                    <li>mamy pełną kontrolę nad tym, co piszemy</li>
+                    <li>przydałoby się w jakiś sposób nasze klasy ustandaryzować</li>
+                    <li>trzeba pamiętać o RWD</li>
+                </ul>
+            </section>
+            <section>
+                <h3>Tailwind</h3>
+                <ul>
+                    <li>jest kompromisem między CSS, a np. Bootstrapem</li>
+                    <li>mamy praktycznie pełną kontrolę nad tym, co piszemy</li>
+                    <li>ustandaryzowane jednostki, w których się poruszamy</li>
+                    <li>obsługa stanów czy RWD w jednym miejscu</li>
+                    <li>całość to w pewnym sensie klasy pomocnicze, z których budujemy nasze komponenty</li>
+                </ul>
+            </section>
+        </section>
+        <section>
+            <h3>W skrócie</h3>
+            <ul>
+                <li>
+                    wszystko się dzieje w html i w pliku konfiguracyjnym
+                </li>
+                <li>
+                    nie dostarcza nam gotowych komponentów, a jedynie klasy pomocnicze
+                </li>
+                <li>
+                    jest swego rodzają "nakładką" na CSS, którą da się w pełni customizować.
+                </li>
+                <li>
+                    posiada ustandaryzowane jednostki i wartości, które oczywiście da się customizować
+                </li>
+                <li>
+                    w bardzo prosty sposób pozwala pisać RWD czy obsługę różnych stanów, które również da się
+                    customizować
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h3>Pewien "narzucony" standard</h3>
+            <img src="img/standard.png">
+        </section>
+        <section>
+            <section>
+                <h3>Pełna kontrola nad tym, co piszemy</h3>
+            </section>
+            <section>
+                <img src="img/control-1.png">
+            </section>
+            <section>
+                <img src="img/control-2.png">
+            </section>
+            <section>
+                <img src="img/control-3.png">
+            </section>
+            <section>
+                <img src="img/control-4.png">
+            </section>
+        </section>
+        <section>
+            <h3>Obsługa stanów</h3>
+            <img src="img/states.png">
+        </section>
+        <section>
+            <section>
+                <h3>RWD</h3>
+            </section>
+            <section>
+                <img src="img/rwd-1.png">
+            </section>
+            <section>
+                <img src="img/rwd-2.png">
+            </section>
+            <section>
+                <img src="img/rwd-3.png">
+            </section>
+        </section>
+        <section>
+            <h3>Wsparcie dla IDE</h3>
+            <img src="img/ide.png">
+        </section>
+        <section>
+            <section>
+                <h3>Personalizacja</h3>
+            </section>
+            <section>
+                <img src="img/customization-1.png">
+            </section>
+            <section>
+                <img src="img/customization-2.png">
+            </section>
+            <section>
+                <img src="img/customization-3.png">
+            </section>
+        </section>
+        <section>
+            <h3>I wiele więcej</h3>
+            <ul>
+                <li>resetuje style w przeglądarkach</li>
+                <li>JIT compiler + purge</li>
+                <li>dark mode</li>
+                <li>wspiera praktycznie wszystkie nowości CSS</li>
+                <li>...</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Tailwind UI</h3>
+            <img src="img/ui.png">
+        </section>
+        <section>
+            <h3>Dziękuję za uwagę</h3>
+            <p>
+                <small>Adrian Hopek, 39574</small>
+            </p>
+        </section>
+    </div>
+</div>
+
+<script src="dist/reveal.js"></script>
+<script src="plugin/notes/notes.js"></script>
+<script src="plugin/markdown/markdown.js"></script>
+<script src="plugin/highlight/highlight.js"></script>
+<script>
+    Reveal.initialize({
+        hash: false,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+    });
+</script>
+</body>
+</html>
