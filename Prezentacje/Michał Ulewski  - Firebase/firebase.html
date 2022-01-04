@@ -1,0 +1,218 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Firebase</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/sky.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<img src="img/logo.png">
+				</section>
+				<section>
+					<h3>Spis treści:</h3>
+					<ul>
+						<li>Czym jest Firebase?</li>
+						<li>Implementacja Firebase w aplikacji</li>
+						<li>Narzędzia Firebase:
+							<ul>
+								<li>Cloud Firestore</li>
+								<li>Realtime Database</li>
+								<li>Authentication</li>
+								<li>Storage</li>
+								<li>Hosting</li>
+								<li>Crashlytics</li>
+								<li>Test Lab</li>
+								<li>Google Analytics</li>
+							</ul>
+						</li>
+					</ul>
+				</section>
+				<section>
+					<section>
+						<h3>Czym jest Firebase?</h3>
+						<p>Firebase to platforma oferująca narzędzia do budowania oraz optymalizowania aplikacji. Podstawową funkcjonalnością Firebase jest tworzenie baz danych oraz usługa Backend as a Service (BasS).</p>	
+					</section>
+					<section>
+						<h3>Systemy, w których można zaimplementować Firebase</h3>
+						<ul>
+							<li>Android</li>
+							<li>iOS</li>
+							<li>Unity</li>
+							<li>Web</li>
+						</ul>
+					</section>
+					<section>
+						<img src="img/uslugi.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Implementacja Firebase</h3>
+						<ol>
+							<li>Rejestracja aplikacji w konsoli Firebase</li>
+							<li>Dodanie pliku konfiguracyjnego do projektu</li>
+							<li>Dodanie odpowiednich zależności</li>
+						</ol>
+					</section>
+					<section>
+						<pre><code data-line-numbers="2|3-4">
+implementation platform('com.google.firebase:firebase-bom:29.0.3')
+implementation 'com.google.firebase:firebase-auth-ktx'
+implementation 'com.google.firebase:firebase-firestore-ktx'
+						</code></pre>
+					</section>
+				</section>
+				<section>
+					<h3>Narzędzia Firebase</h3>
+				</section>
+				<section>
+					<section>
+						<h3>Cloud Firestore</h3>
+						<p>Baza danych typu NoSQL, której struktura oparta jest na kolekcjach i dokumentach.</p>
+					</section>
+					<section>
+						<pre><code data-trim data-noescape>
+							val person = hashMapOf(
+								"forename" to "Adam",
+								"surname" to "Nowak",
+								"born" to 1990,
+								"married" to false
+							)
+							db.collection("users").document("anowak")
+								.set(person)
+								.addOnSuccessListener { Log.d(TAG, "DocumentSnapshot successfully written!") }
+        						.addOnFailureListener { e -> Log.w(TAG, "Error writing document", e) }
+						</code></pre>
+					</section>
+					<section>
+						<img src="img/firestore.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Realtime Database</h3>
+						<p>Baza danych typu NoSQL, w której możemy przechowywać i synchronizować dane między naszymi użytkownikami w czasie rzeczywistym.</p>
+					</section>
+					<section>
+						<img src="img/realtime.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Authentication</h3>
+						<p>Firebase Authentication jest narzędziem dostarczającym nam usługi przeznaczone do uwierzytelniania użytkowników.</p>
+						<p>Najczęściej wykorzystywane metody uwierzytelniania:</p>
+						<ul>
+							<li>Email + password</li>
+							<li>Google</li>
+							<li>Facebook</li>
+						</ul>
+					</section>
+					<section>
+						<img src="img/auth2.png">
+					</section>
+					<section>
+						<pre><code data-trim data-noescape>
+							FirebaseAuth.getInstance().createUserWithEmailAndPassword(email, password)
+            				.addOnCompleteListener {
+               					if (!it.isSuccessful) return@addOnCompleteListener}
+            				.addOnFailureListener {
+                				Toast.makeText(this, "${it.message}", Toast.LENGTH_LONG).show()}
+						</code></pre>
+					</section>
+					<section>
+						<img src="img/auth.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Storage</h3>
+						<p>Firebase Storage pozwala nam na przechowywanie danych mulitmedialnych.</p>
+					</section>
+					<section>
+						<pre><code data-trim data-noescape>
+							val filename = UUID.randomUUID().toString()
+    			val ref = FirebaseStorage.getInstance().getReference("/images/$filename")
+
+							ref.putFile(selectedPhotoUri!!)
+								.addOnSuccessListener {
+									ref.downloadUrl.addOnSuccessListener {
+										Log.d("RegisterActivity", "File location: $it")
+									}
+								}
+						</code></pre>
+					</section>
+					<section>
+						<img src="img/storage.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Hosting</h3>
+						<p>Firebase Hosting pozwala nam na szybkie wdrożenie naszej aplikacji.</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Crashlytics</h3>
+						<p>Narzędzie raportujące awarie w aplikacji w czasie rzeczywistym, które pochodzą z urządzeń użytkowników na których zainstalowana jest aplikacja.</p>
+					</section>
+					<section>
+						<img src="img/crash.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Test Lab</h3>
+						<p>Oparta na chmurze infrastruktura do testowania aplikacji, która umożliwia testowanie aplikacji na różnych urządzeniach i konfiguracjach</p>
+					</section>
+					<section>
+						<img src="img/test-lab.png">
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Google Analytics</h3>
+						<p>Zapewnia nam wgląd w wykorzystywanie naszej aplikacji oraz zaanagażowanie jej użytkowników.</p>
+					</section>
+					<section>
+						<img src="img/analiycs.jpg">
+					</section>
+				</section>
+				<section>
+					<h3>Podsumowanie</h3>	
+				</section>
+				<section>
+					<h3>Koniec</h3>	
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
