@@ -38,7 +38,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #13 | wtorek       | 2022-01-04 | 13:30   | [@JakubWałęga](https://github.com/JW-39615)               | Websockety                  |
 | #13 | wtorek       | 2022-01-04 | 13:30   | [@MaciejZienkiewicz](https://github.com/pxmaciej)         | Email.js                    |
 | #14 | wtorek       | 2022-01-11 | 13:30   | [@SebastianĆwirko](https://github.com/sebcwi)             | React                       |
-| #14 | wtorek       | 2022-01-11 | 13:30   | @                                                         | TBA                         |
+| #14 | wtorek       | 2022-01-11 | 13:30   | [@MarcinFras](https://github.com/Bocian117)               | iVend                       |
 | #14 | wtorek       | 2022-01-11 | 13:30   | @                                                         | TBA                         |
 | #15 | poniedziałek | 2022-01-17 | 17:00   | @                                                         | TBA                         |
 | #15 | poniedziałek | 2022-01-17 | 17:00   | @                                                         | TBA                         |
