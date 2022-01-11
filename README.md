@@ -40,6 +40,6 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #14 | wtorek       | 2022-01-11 | 13:30   | [@SebastianĆwirko](https://github.com/sebcwi)             | React                       |
 | #14 | wtorek       | 2022-01-11 | 13:30   | [@MarcinFras](https://github.com/Bocian117)               | iVend                       |
 | #14 | wtorek       | 2022-01-11 | 13:30   | @                                                         | TBA                         |
-| #15 | poniedziałek | 2022-01-17 | 17:00   | @                                                         | TBA                         |
+| #15 | poniedziałek | 2022-01-17 | 17:00   | [@MateuszSłupski](https://github.com/PanMati2)            | Blockchain                  |                        
 | #15 | poniedziałek | 2022-01-17 | 17:00   | @                                                         | TBA                         |
 | #15 | poniedziałek | 2022-01-17 | 17:00   | @                                                         | TBA                         |
