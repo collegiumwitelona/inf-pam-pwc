@@ -1,0 +1,172 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Blockchain</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/solarized.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>Blockchain</h1>
+					<p>Mateusz Słupski-Kartaczewski</p>
+					<p>39609</p>
+				</section>
+					<section>Spis treści</br>
+						<ol>
+							<li>
+								Co to jest blockchain?
+							</li>
+							<li>
+								Jak działa blockchain?
+							</li>
+							<li>
+								Znaczenie "block"
+							</li>
+							<li>
+								Rodzaje blockchainów
+							</li>
+							<li>
+								Zastosowanie
+							</li>
+							
+							<li>
+								Podsumowanie
+							</li>
+							
+						</ol>
+					</section>
+					<section>
+						<h2>Co to jest blockchain?</h2>
+						<p>Blockchain (zwany też łańcuchem bloków) jest współdzieloną, rozproszoną i odporną na błędy bazą danych
+							, która utrzymuje rekordy w blokach. Bloki są połączone ze sobą w formie łańcucha, 
+							każdy z nich przetrzymuje identyfikator (hash) swojego poprzednika.
+							Każdy blok zawiera od kilku do kilku tysięcy zweryfikowanych transakcji, znacznik czasu wskazujący moment jego utworzenia oraz liczbę losową 
+							dla operacji kryptograficznych wykonywanych w celu potwierdzenia poprawności bloku.</p>
+						
+					</section>
+					<section>
+						<h2>Schemat</h2>
+						<img data-src="img\1.jpg" height="550">
+					</section>
+					<section>
+						<h2>Jak działa Blockchain?</h2>
+						<img data-src="img\2-1.jpg" height="550">
+					</section>
+					<section>
+						<h2>Znaczenie block</h2>
+						<p>Block jest podstawowym elementem
+							składowym w technologii łańcucha
+							bloków.Składa się on z nagłówka i danych.
+							W nagłówku mamy m.in. zapisane odniesienie
+							do poprzedniego bloku w łańcuchu, znacznik czasowy utworzenia bloku
+							oraz korzeń drzewa haszy transakcji zawartych w bloku. </p>
+							
+						
+					</section>
+					<section>
+							<h2>Rodzaje blockchainów</h2>
+							<ul><li>Publiczny</li>
+								<li>Prywatny</li>
+								<li>Hybrydowy</li>
+							
+							</ul>
+								
+							
+					</section>
+							<section>
+								<h2>Publiczny</h2>
+								<p>Najbardziej znanym
+									przykładem jest blockchain bitoina. Główną
+									jego funkcjonalnośćią jest to, że każdy może pobrać
+									dowolny fragment lub całość bazy danych
+									oraz zazwyczaj ma prawo udostępniać
+									swoją kopię innym węzłom</p>
+							</section>
+							<section>
+								<h2>Prywatny</h2>
+								<p>Jego główna funkcja związana
+									jest z tym, że blockchain ten może
+									pobierać / udostępniać jedynie wybrana
+									grupa podmiotów. Prywatny blockchain
+									wykorzystywany jest, gdy sieć biznesowa
+									zawiera poufne dane lub gdy regulacje
+									prawne nie pozwalają poszczególnym
+									członkom na korzystanie z Blockchaina
+									publicznego. Przykładem takiego blockchaina jest Hyperledger.</p>
+							</section>
+							<section>
+								<h2>Hybrydowy</h2>
+								<p>Teoretyczny przykład
+									blockchaina hybrydowego, to sieć prywatna
+									z własnym protokołem konsensusu
+									i mechanizmami kontroli dostępu do
+									rejestru, ale korzystająca z blockchaina
+									publicznego w celach rozliczeniowych,
+									w celu potwierdzenia istnienia danego
+									stanu w danym czasie
+									lub do wykorzystania kryptowaluty.</p>
+							</section>
+							<section>
+								<h2>Zastosowanie</h2>
+								<p>Przykłady użycia blockchaina:</p>
+								<ul>
+									<li>Sektor finansowy - transfery międzynarodowe i międzybankowe, wymiany walut.</li>
+									<li>Sektor opieki zdrowotnej - wykorzystywanie łańcucha bloków do bezpiecznego przechowywania dokumentacji medycznej pacjentów</li>
+									<li>Internet rzeczy -  śledzenie stanu, historii, wymiana zdarzeń.</li>
+									<li>Edukacja- rejestr uczniów, ocen, wyników oraz świadectw.</li>
+
+								</ul>
+							</section>
+							<section>
+								
+								<h2>Podsumowanie</h2>
+								<p>  "Wielu ekspertów opisało potencjał łańcucha bloków 
+									 do zmiany naszego sposobu życia i pracy jako podobny do potencjału, 
+									 jaki publiczne protokoły internetowe, takie jak HTML, 
+									 miały we wczesnych latach istnienia Internetu."</p> 
+							</section>
+							<section>
+								<h2>Ciekawostki</h2>
+								<ul>
+									<li>w 2021 r. odnotowano rekordową liczbę programistów - ponad 18 tys. na miesiąc</li>
+									<li>65% aktywnych programistów kryptowalut rozpoczęło działalność w tym obszarze w 2021 roku</li>
+									<li>znajomość technologii blockchain znalazła się na pierwszym miejscu pod względem najbardziej wartościowych umiejętności w rankingu LinkedIn.</li>
+									<li>PKO Bank jako pierwsza instytucja finansowa wdrożył  Blockchain w swoją działalność</li>
+
+								</ul>
+
+							</section>
+							<section>
+								<h1>Dziękuje za uwagę!</h1>
+							</section>
+							
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
