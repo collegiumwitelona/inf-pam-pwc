@@ -24,7 +24,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #10 | środa     | 2022-12-07 | 18:45   |                                                      | prezentacja 2               |
 | #10 | środa     | 2022-12-07 | 18:45   |                                                      | prezentacja 3               |
 | #10 | środa     | 2022-12-07 | 18:45   |                                                      | prezentacja 4               |
-| #11 | środa     | 2022-12-14 | 13:30   |                                                      | prezentacja 1               |
+| #11 | środa     | 2022-12-14 | 13:30   | [@KacperFrankowski](https://github.com/shiragaira)   | CSR vs SSR vs SSG           |
 | #11 | środa     | 2022-12-14 | 13:30   |                                                      | prezentacja 2               |
 | #11 | środa     | 2022-12-14 | 13:30   |                                                      | prezentacja 3               |
 | #11 | środa     | 2022-12-14 | 13:30   |                                                      | prezentacja 4               |
