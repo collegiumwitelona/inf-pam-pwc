@@ -27,7 +27,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #11 | środa     | 2022-12-14 | 13:30   | [@KacperFrankowski](https://github.com/shiragaira)   | CSR vs SSR vs SSG           |
 | #11 | środa     | 2022-12-14 | 13:30   | [@MariuszSkuza](https://github.com/Prestionyk)       | .NET MAUI                   |
 | #11 | środa     | 2022-12-14 | 13:30   | [@MaciejZienkiewicz](https://github.com/pxmacie)     | Email.js                    |
-| #11 | środa     | 2022-12-14 | 13:30   |                                                      | prezentacja 4               |
+| #11 | środa     | 2022-12-14 | 13:30   | [@MichalMyskow](https://github.com/MichalMyskow)     | Inertia.js                  |
 | #12 | środa     | 2022-12-14 | 15:15   |                                                      | prezentacja 1               |
 | #12 | środa     | 2022-12-14 | 15:15   |                                                      | prezentacja 2               |
 | #12 | środa     | 2022-12-14 | 15:15   |                                                      | prezentacja 3               |
