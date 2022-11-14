@@ -21,7 +21,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 3               |
 | #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 4               |
 | #10 | środa     | 2022-12-07 | 18:45   |                                                      | prezentacja 1               |
-| #10 | środa     | 2022-12-07 | 18:45   |                                                      | prezentacja 2               |
+| #10 | środa     | 2022-12-07 | 18:45   | [@JanKwiatkowski](https://github.com/JayKayJunior)   | Zabezpieczenia serwerowni   |
 | #10 | środa     | 2022-12-07 | 18:45   | [@JakubWałęga](https://github.com/J-Walega)          | Websockety                  |
 | #10 | środa     | 2022-12-07 | 18:45   | [@AleksanderKowalski](https://github.com/MrHDOLEK)   | Infrastructure as a code    |
 | #11 | środa     | 2022-12-14 | 13:30   | [@KacperFrankowski](https://github.com/shiragaira)   | CSR vs SSR vs SSG           |
