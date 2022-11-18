@@ -31,7 +31,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #12 | środa     | 2022-12-14 | 15:15   | [@PiotrTekieli](https://github.com/PiotrTekieli)     | Svelte                      |
 | #12 | środa     | 2022-12-14 | 15:15   | [@JakubZakowicz](https://github.com/JakubZakowicz)   | Prisma                      |
 | #12 | środa     | 2022-12-14 | 15:15   | [@AnnaSokołowska](https://github.com/Anna-Sokolowska)| Metodyki CSS                |
-| #12 | środa     | 2022-12-14 | 15:15   |                                                      | prezentacja 4               |
+| #12 | środa     | 2022-12-14 | 15:15   | [@GrzegorzBogusz](https://github.com/grzegorzbogusz) | Redis                       |
 | #13 | środa     | 2023-01-11 | 13:30   |                                                      | termin zapasowy             |
 | #14 | środa     | 2023-01-11 | 15:15   |                                                      | termin zapasowy             |
 | #15 | czwartek  | 2023-01-19 | 15:15   |                                                      | termin zapasowy             |
