@@ -19,7 +19,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 1               |
 | #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 2               |
 | #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 3               |
-| #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 4               |
+| #9  | środa     | 2022-11-30 | 15:15   | [@MichalGalezyka](https://github.com/Majkulnn)       | Alpine.js                   |
 | #10 | środa     | 2022-12-07 | 18:45   | [@JakubEngielski](https://github.com/Aceaelus)       | Komputery Przemysłowe       |
 | #10 | środa     | 2022-12-07 | 18:45   | [@JanKwiatkowski](https://github.com/JayKayJunior)   | Zabezpieczenia serwerowni   |
 | #10 | środa     | 2022-12-07 | 18:45   | [@JakubWałęga](https://github.com/J-Walega)          | Websockety                  |
