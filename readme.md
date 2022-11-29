@@ -1,45 +1,46 @@
 # inf-pam-pwc
+
 Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 
 ## Rok akademicki 2021/22
 
-| #   | dzień     | data       | godzina | autor                                                | prezentacja                 |
-|-----|-----------|------------|---------|------------------------------------------------------|-----------------------------|
-| #1  | czwartek  | 2022-10-06 | 15:15   | [@krzysztofrewak](https://github.com/krzysztofrewak) | Wstęp do seminarium         |
-| #2  | środa     | 2022-10-19 | 13:30   |                                                      | _przygotowanie prezentacji_ |
-| #3  | środa     | 2022-10-19 | 15:15   |                                                      | _przygotowanie prezentacji_ |
-| #4  | środa     | 2022-11-02 | 13:30   |                                                      | _przygotowanie prezentacji_ |
-| #5  | środa     | 2022-11-02 | 15:15   |                                                      | _przygotowanie prezentacji_ |
-| #6  | środa     | 2022-11-16 | 13:30   |                                                      | _przygotowanie prezentacji_ |
-| #7  | środa     | 2022-11-16 | 15:15   |                                                      | _przygotowanie prezentacji_ |
-| #8  | środa     | 2022-11-30 | 13:30   |                                                      | prezentacja 1               |
-| #8  | środa     | 2022-11-30 | 13:30   |                                                      | prezentacja 2               |
-| #8  | środa     | 2022-11-30 | 13:30   |                                                      | prezentacja 3               |
-| #8  | środa     | 2022-11-30 | 13:30   |                                                      | prezentacja 4               |
-| #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 1               |
-| #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 2               |
-| #9  | środa     | 2022-11-30 | 15:15   |                                                      | prezentacja 3               |
-| #9  | środa     | 2022-11-30 | 15:15   | [@MichalGalezyka](https://github.com/Majkulnn)       | Alpine.js                   |
-| #10 | środa     | 2022-12-07 | 18:45   | [@JakubEngielski](https://github.com/Aceaelus)       | Komputery Przemysłowe       |
-| #10 | środa     | 2022-12-07 | 18:45   | [@JanKwiatkowski](https://github.com/JayKayJunior)   | Zabezpieczenia serwerowni   |
-| #10 | środa     | 2022-12-07 | 18:45   | [@JakubWałęga](https://github.com/J-Walega)          | Websockety                  |
-| #10 | środa     | 2022-12-07 | 18:45   | [@AleksanderKowalski](https://github.com/MrHDOLEK)   | Infrastructure as a code    |
-| #11 | środa     | 2022-12-14 | 13:30   | [@KacperFrankowski](https://github.com/shiragaira)   | CSR vs SSR vs SSG           |
-| #11 | środa     | 2022-12-14 | 13:30   | [@MariuszSkuza](https://github.com/Prestionyk)       | .NET MAUI                   |
-| #11 | środa     | 2022-12-14 | 13:30   | [@MaciejZienkiewicz](https://github.com/pxmacie)     | Email.js                    |
-| #11 | środa     | 2022-12-14 | 13:30   | [@MichalMyskow](https://github.com/MichalMyskow)     | Inertia.js                  |
-| #12 | środa     | 2022-12-14 | 15:15   | [@PiotrTekieli](https://github.com/PiotrTekieli)     | Svelte                      |
-| #12 | środa     | 2022-12-14 | 15:15   | [@JakubZakowicz](https://github.com/JakubZakowicz)   | Prisma                      |
-| #12 | środa     | 2022-12-14 | 15:15   | [@AnnaSokołowska](https://github.com/Anna-Sokolowska)| Metodyki CSS                |
-| #12 | środa     | 2022-12-14 | 15:15   | [@GrzegorzBogusz](https://github.com/grzegorzbogusz) | Redis                       |
-| #13 | środa     | 2023-01-11 | 13:30   |                                                      | termin zapasowy             |
-| #14 | środa     | 2023-01-11 | 15:15   |                                                      | termin zapasowy             |
-| #15 | czwartek  | 2023-01-19 | 15:15   |                                                      | termin zapasowy             |
+| #   | dzień    | data       | godzina | autor                                                 | prezentacja                 |
+| --- | -------- | ---------- | ------- | ----------------------------------------------------- | --------------------------- |
+| #1  | czwartek | 2022-10-06 | 15:15   | [@krzysztofrewak](https://github.com/krzysztofrewak)  | Wstęp do seminarium         |
+| #2  | środa    | 2022-10-19 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #3  | środa    | 2022-10-19 | 15:15   |                                                       | _przygotowanie prezentacji_ |
+| #4  | środa    | 2022-11-02 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #5  | środa    | 2022-11-02 | 15:15   |                                                       | _przygotowanie prezentacji_ |
+| #6  | środa    | 2022-11-16 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #7  | środa    | 2022-11-16 | 15:15   |                                                       | _przygotowanie prezentacji_ |
+| #8  | środa    | 2022-11-30 | 13:30   |                                                       | prezentacja 1               |
+| #8  | środa    | 2022-11-30 | 13:30   |                                                       | prezentacja 2               |
+| #8  | środa    | 2022-11-30 | 13:30   |                                                       | prezentacja 3               |
+| #8  | środa    | 2022-11-30 | 13:30   |                                                       | prezentacja 4               |
+| #9  | środa    | 2022-11-30 | 15:15   |                                                       | prezentacja 1               |
+| #9  | środa    | 2022-11-30 | 15:15   |                                                       | prezentacja 2               |
+| #9  | środa    | 2022-11-30 | 15:15   |                                                       | prezentacja 3               |
+| #9  | środa    | 2022-11-30 | 15:15   | [@MichalGalezyka](https://github.com/Majkulnn)        | Alpine.js                   |
+| #10 | środa    | 2022-12-07 | 18:45   | [@JakubEngielski](https://github.com/Aceaelus)        | Komputery Przemysłowe       |
+| #10 | środa    | 2022-12-07 | 18:45   | [@JanKwiatkowski](https://github.com/JayKayJunior)    | Zabezpieczenia serwerowni   |
+| #10 | środa    | 2022-12-07 | 18:45   | [@JakubWałęga](https://github.com/J-Walega)           | Websockety                  |
+| #10 | środa    | 2022-12-07 | 18:45   | [@AleksanderKowalski](https://github.com/MrHDOLEK)    | Infrastructure as a code    |
+| #11 | środa    | 2022-12-14 | 13:30   | [@KacperFrankowski](https://github.com/shiragaira)    | CSR vs SSR vs SSG           |
+| #11 | środa    | 2022-12-14 | 13:30   | [@MariuszSkuza](https://github.com/Prestionyk)        | .NET MAUI                   |
+| #11 | środa    | 2022-12-14 | 13:30   | [@MaciejZienkiewicz](https://github.com/pxmacie)      | Email.js                    |
+| #11 | środa    | 2022-12-14 | 13:30   | [@MichalMyskow](https://github.com/MichalMyskow)      | Inertia.js                  |
+| #12 | środa    | 2022-12-14 | 15:15   | [@PiotrTekieli](https://github.com/PiotrTekieli)      | Svelte                      |
+| #12 | środa    | 2022-12-14 | 15:15   | [@JakubZakowicz](https://github.com/JakubZakowicz)    | Prisma                      |
+| #12 | środa    | 2022-12-14 | 15:15   | [@AnnaSokołowska](https://github.com/Anna-Sokolowska) | Metodyki CSS                |
+| #12 | środa    | 2022-12-14 | 15:15   | [@GrzegorzBogusz](https://github.com/grzegorzbogusz)  | Redis                       |
+| #13 | środa    | 2023-01-11 | 13:30   | [@SzymonBacanski](https://github.com/sbacanski0730)   | Next.js                     |
+| #14 | środa    | 2023-01-11 | 15:15   |                                                       | termin zapasowy             |
+| #15 | czwartek | 2023-01-19 | 15:15   |                                                       | termin zapasowy             |
 
 ## Rok akademicki 2021/22
 
 | #   | dzień        | data       | godzina | autor                                                     | prezentacja                 |
-|-----|--------------| ---------- | ------- |-----------------------------------------------------------|-----------------------------|
+| --- | ------------ | ---------- | ------- | --------------------------------------------------------- | --------------------------- |
 | #1  | wtorek       | 2021-10-05 | 15:15   | [@krzysztofrewak](https://github.com/krzysztofrewak)      | Wstęp do seminarium         |
 | #2  | wtorek       | 2021-10-12 | 13:30   |                                                           | _przygotowanie prezentacji_ |
 | #3  | wtorek       | 2021-10-19 | 13:30   |                                                           | _przygotowanie prezentacji_ |
