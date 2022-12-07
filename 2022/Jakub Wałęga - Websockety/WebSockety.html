@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+		/>
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css" />
+		<link rel="stylesheet" href="dist/reveal.css" />
+		<link rel="stylesheet" href="dist/theme/blood.css" />
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" />
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><h2 class="r-fit-text">Websockety</h2></section>
+				<section>
+					<h2>Tematy</h2>
+					<p class="fragment fade-in">Czym jest WebSocket</p>
+					<p class="fragment fade-in">
+						Jak wygląda połączenie pomiędzy klientem a serwerem
+					</p>
+					<p class="fragment fade-in">
+						Do czego wykorzystywany jest protokół WebSocket
+					</p>
+				</section>
+				<section>
+					<h5>Czym jest WebSocket</h5>
+					<p class="fragment fade-in">
+						WebSocket to protokół komunikacyjny oparty o TCP, który zapewnia
+						dwukierunkową komunikację pomiędzy klientem a serwerem
+					</p>
+					<p class="fragment fade-in">
+						Po ustanowieniu połączenia obie strony moga w dowolnym momencie
+						wymieniać się danymi wysyłając pakiet danych
+					</p>
+					<p class="fragment fade-in">
+						Dopóki któraś ze stron nie zakończy połączenia, pozostaje ono
+						aktywne
+					</p>
+				</section>
+				<section>
+					<img src="./images/Websocket vs HTTP.png" />
+				</section>
+				<section>
+					<img src="./images/LongPolling.png" />
+				</section>
+				<section>
+					<h5>Połączenie pomiędzy klientem, a serwerem</h5>
+					<p>Zainteresowana połączeniem strona wysyła takie żądanie:</p>
+					<pre><code>
+								GET ws://websocketexample.com:8181/ HTTP/1.1
+								Host: localhost:8181
+								Connection: Upgrade
+								Pragma: no-cache
+								Cache-Control: no-cache
+								Upgrade: websocket
+								Sec-WebSocket-Version: 13
+								Sec-WebSocket-Key: b6gjhT32u488lpuRwKaOWs==
+							</code></pre>
+				</section>
+				<section>
+					<p>Odpowiedź na żądanie</p>
+					<pre>
+						<code>
+							HTTP/1.1 101 Switching Protocols
+							Upgrade: websocket
+							Connection: Upgrade
+							Sec-WebSocket-Accept: rG8wsswmHTJ85lJgAE3M5RTmcCE=
+						</code>
+					</pre>
+				</section>
+				<section>
+					<img src="./images/WebSocketProtocol.png" />
+				</section>
+				<section>
+					<h5>Wykorzystanie WebSocket</h5>
+					<p class="fragment fade-in">
+						Wszędzie tam, gdzie potrzebujemy dwukierunkowego dostępu do danych w
+						czasie rzeczywistym
+					</p>
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+			});
+		</script>
+	</body>
+</html>
