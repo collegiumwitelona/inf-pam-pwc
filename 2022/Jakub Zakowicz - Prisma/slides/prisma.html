@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>Prisma</title>
+
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/blood.css" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+    <style>
+      p,
+      ul {
+        font-size: 24px;
+      }
+
+      li {
+        margin-top: 30px;
+      }
+
+      .flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>
+          <img src="/images/prisma_logo.png" width="500" alt="logo">
+          <p>Nowa generacja ORM dla Node.js i Typescript</p>
+        </section>
+        <section>
+          <h3>Czym jest prisma?</h3>
+          <p>
+            Prisma to ORM typu open source, które pomaga szybciej budować
+            aplikacje i popełniać mniej błędów. Prisma stosuje inne podejście do
+            ORM w porównaniu do tradycyjnych ORM. Używa standardowego języka
+            definicji schematu (SDL), który automatycznie zapisuje migracje i
+            generuje kod bezpieczny dla typów.
+          </p>
+        </section>
+        <section>
+          <section>
+            <h3>Dlaczego Prisma?</h3>
+            <p>
+              Głównym celem Prismy jest zwiększenie produktywności programistów
+              podczas pracy z bazami danych.
+            </p>
+          </section>
+          <section>
+            <p>A osiągnięte jest to poprzez:</p>
+            <ul>
+              <li>Myślenie obiektami</li>
+              <li>Zapytania zamiast klas</li>
+              <li>Jedno źródło prawdy dla modeli baz danych i aplikacji</li>
+              <li>Zdrowe ograniczenia</li>
+              <li>Abstrakcja</li>
+              <li>Bezpieczne typowo zapytania do bazy danych</li>
+              <li>Mniej szablonów</li>
+              <li>automatyczne uzupełnianie kodu</li>
+            </ul>
+          </section>
+        </section>
+        <section>
+          <section><h4>Kiedy warto zastosować Prismę?</h4></section>
+          <section><h4>Kiedy nie warto?</h4></section>
+        </section>
+        <section>
+          <p>Prisma składa się z następujących części:</p>
+          <ul>
+            <li>Prisma Client</li>
+            <li>Prisma Migrate</li>
+            <li>Prisma Studio</li>
+          </ul>
+        </section>
+        <section>
+          <section>
+            <h3>Jak Działa prisma?</h3>
+            <p>
+              Każdy projekt korzystający z Prismy zaczyna się od pliku schematu
+              Prisma (prisma.schema). Schemat Prisma umożliwia programistom
+              definiowanie modeli aplikacji w intuicyjnym języku modelowania
+              danych.
+            </p>
+          </section>
+          <section>
+            <p>W takim schemacie konfigurujemy najczęściej trzy rzeczy:</p>
+            <div class="flex">
+              <ul>
+                <li>Źródło danych</li>
+                <li>Generator</li>
+                <li>Model danych</li>
+              </ul>
+              <img src="/images/prisma_schema.png" alt="" />
+            </div>
+          </section>
+        </section>
+        <section>
+          <section>
+            <h3>Prisma Client</h3>
+            <div class="prisma-client">
+              <img src="/images/prisma_client1.png" alt="prisma client 1" />
+              <img src="/images/prisma_client2.png" alt="prisma client 2" />
+            </div>
+          </section>
+          <section>
+            <h3>Prisma Client - Działanie</h3>
+            <img src="/images/prisma_diagram.webp" alt="prisma diagram" />
+          </section>
+        </section>
+        <section><h3>Dziękuję za uwagę!</h3></section>
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
+</html>
