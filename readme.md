@@ -30,7 +30,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 2               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 3               |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 4               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 5               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 1               |
