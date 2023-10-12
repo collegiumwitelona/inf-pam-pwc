@@ -13,7 +13,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #5  | czwartek | 2023-11-09 | 13:30   |                                                       | _przygotowanie prezentacji_ |
 | #6  | czwartek | 2023-11-16 | 13:30   |                                                       | _przygotowanie prezentacji_ |
 | #7  | czwartek | 2023-11-23 | 13:30   |                                                       | _przygotowanie prezentacji_ |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@sbanasiak](https://github.com/sbanasiak)            | Google Lighthouse           |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
