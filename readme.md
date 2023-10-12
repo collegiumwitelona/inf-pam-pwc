@@ -2,6 +2,58 @@
 
 Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 
+## Rok akademicki 2022/23
+
+| #   | dzień    | data       | godzina | autor                                                 | prezentacja                 |
+| --- | -------- | ---------- | ------- | ----------------------------------------------------- | --------------------------- |
+| #1  | czwartek | 2023-10-05 | 13:30   |                                                       |                             |
+| #2  | czwartek | 2023-10-12 | 13:30   | [@krzysztofrewak](https://github.com/krzysztofrewak)  | Wstęp do seminarium         |
+| #3  | czwartek | 2023-10-19 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #4  | czwartek | 2023-10-26 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #5  | czwartek | 2023-11-09 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #6  | czwartek | 2023-11-16 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #7  | czwartek | 2023-11-23 | 13:30   |                                                       | _przygotowanie prezentacji_ |
+| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
+| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
+| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
+| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
+| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
+| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
+| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 2               |
+| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 3               |
+| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 4               |
+| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 2               |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 3               |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 4               |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 5               |
+| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 1               |
+| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 2               |
+| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 3               |
+| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 4               |
+| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 5               |
+| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 1               |
+| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 2               |
+| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 3               |
+| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 4               |
+| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 5               |
+| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 1               |
+| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 2               |
+| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 3               |
+| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 4               |
+| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 5               |
+| #15 | środa    | 2024-01-17 | 18:45   |                                                       | termin zapasowy             |
+| #15 | środa    | 2024-01-17 | 18:45   |                                                       | termin zapasowy             |
+| #15 | środa    | 2024-01-17 | 18:45   |                                                       | termin zapasowy             |
+| #15 | środa    | 2024-01-17 | 18:45   |                                                       | termin zapasowy             |
+| #15 | środa    | 2024-01-17 | 18:45   |                                                       | termin zapasowy             |
+
 ## Rok akademicki 2021/22
 
 | #   | dzień    | data       | godzina | autor                                                 | prezentacja                 |
