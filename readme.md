@@ -24,7 +24,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 2               |
+| #10 | czwartek | 2023-12-07 | 13:30   |[@konradkarkosz](https://github.com/Zayooo00)          | Vercel                      |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 3               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 4               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
