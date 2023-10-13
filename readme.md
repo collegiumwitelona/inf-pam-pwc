@@ -13,8 +13,8 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #5  | czwartek | 2023-11-09 | 13:30   |                                                       | _przygotowanie prezentacji_ |
 | #6  | czwartek | 2023-11-16 | 13:30   |                                                       | _przygotowanie prezentacji_ |
 | #7  | czwartek | 2023-11-23 | 13:30   |                                                       | _przygotowanie prezentacji_ |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@sbanasiak](https://github.com/sbanasiak)            | Google Lighthouse           |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@plencka](https://github.com/plencka)                | Three.js                    |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
@@ -24,21 +24,21 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 2               |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@konradkarkosz](https://github.com/Zayooo00)         | Vercel                      |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 3               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 4               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 2               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 3               |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 4               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 5               |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 1               |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@adiko2602](https://github.com/adiko2602)            | NextAuth.js                 |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 2               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 3               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 4               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 5               |
-| #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda (https://github.com/cobsei)]            | Księga znaku i SIW          |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 2               |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 3               |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 4               |
