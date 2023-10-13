@@ -39,7 +39,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 4               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 5               |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 2               |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 3               |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 4               |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 5               |
