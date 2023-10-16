@@ -36,7 +36,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #12 | czwartek | 2023-12-21 | 13:30   | [@adiko2602](https://github.com/adiko2602)            | NextAuth.js                 |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 2               |
 | #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 3               |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 4               |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@KozaPawel](https://github.com/KozaPawel)            | Monetyzacja gier |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@MatArasim](https://github.com/MatArasim)            | Golang                      |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
