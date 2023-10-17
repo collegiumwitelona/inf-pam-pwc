@@ -17,7 +17,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #8  | czwartek | 2023-11-30 | 13:30   | [@plencka](https://github.com/plencka)                | Three.js                    |
 | #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@kbalicki14](https://github.com/kbalicki14)          | Flutter/GetX                |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@WiktorPendowski](https://github.com/SUND1O)         | Przygotowanie modeli 3D do gier |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
