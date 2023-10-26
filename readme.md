@@ -18,7 +18,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #8  | czwartek | 2023-11-30 | 13:30   | [@MarcinJarosiński](https://github.com/R4phel)        | Kontrowersja w generowaniu obrazów AI |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@kbalicki14](https://github.com/kbalicki14)          | Flutter/GetX                |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@WiktorPendowski](https://github.com/SUND1O)         | Przygotowanie modeli 3D do gier |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@OliwierJedrzejczak](https://github.com/jedrzejowsky)| ChatGPT               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
