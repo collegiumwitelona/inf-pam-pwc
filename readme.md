@@ -19,7 +19,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #8  | czwartek | 2023-11-30 | 13:30   | [@kbalicki14](https://github.com/kbalicki14)          | Flutter/GetX                |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@WiktorPendowski](https://github.com/SUND1O)         | Przygotowanie modeli 3D do gier |
 | #9  | czwartek | 2023-11-30 | 13:30   | [@OliwierJedrzejczak](https://github.com/jedrzejowsky)| ChatGPT               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@WiktorDziurman](https://github.com/WiktorDziurman)  | Projekt autorskiego zestawu szachów 3D w stylu Steampunk i jego wydruk |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
@@ -29,12 +29,12 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #10 | czwartek | 2023-12-07 | 13:30   | [@TR4by](https://github.com/TR4by)                    | Działanie silnika Unity     |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 2               |
+| #11 | czwartek | 2023-12-14 | 13:30   |   [@KrawczykKamil](https://github.com/KrawczykKamil)                                                   | Grafika rastrowa i wektorowa              |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@nikolakozakiewicz02](https://github.com/nikolakozakiewicz02)| Wykorzystanie grafiki w marketingu               |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 5               |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@adiko2602](https://github.com/adiko2602)            | NextAuth.js                 |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 2               |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@JakubPisarski](https://github.com/JakubPisarski)     | Identyfikacja wizualna - zasady              |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@MateuszNieplowicz](https://github.com/Madoq)        | Cypress |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@KozaPawel](https://github.com/KozaPawel)            | Monetyzacja gier |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@MatArasim](https://github.com/MatArasim)            | Golang                      |
