@@ -20,14 +20,14 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #8  | czwartek | 2023-11-30 | 13:30   | [@WiktorPendowski](https://github.com/SUND1O)         | Przygotowanie modeli 3D do gier |
 | #9  | czwartek | 2023-11-30 | 13:30   | [@OliwierJedrzejczak](https://github.com/jedrzejowsky)| ChatGPT               |
 | #9  | czwartek | 2023-11-30 | 13:30   | [@WiktorDziurman](https://github.com/WiktorDziurman)  | Projekt autorskiego zestawu szachów 3D w stylu Steampunk i jego wydruk |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@BartoszKarpiński](https://github.com/Wesero)        | Animacja 2D i 3D            |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
 | #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@konradkarkosz](https://github.com/Zayooo00)         | Vercel                      |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@mateuszbizoń](https://github.com/mateuszbizon)      | Qwik                        |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@TR4by](https://github.com/TR4by)                    | Działanie silnika Unity     |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@BartoszKarpiński](https://github.com/Wesero)        | Animacja 2D i 3D            |
 | #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
 | #11 | czwartek | 2023-12-14 | 13:30   |   [@KrawczykKamil](https://github.com/KrawczykKamil)                                                   | Grafika rastrowa i wektorowa              |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
