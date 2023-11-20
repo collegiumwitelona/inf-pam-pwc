@@ -28,7 +28,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #10 | czwartek | 2023-12-07 | 13:30   | [@mateuszbizoń](https://github.com/mateuszbizon)      | Qwik                        |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@TR4by](https://github.com/TR4by)                    | Działanie silnika Unity     |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@DawidBogacz](https://github.com/xDHLx)              | Tworzenie modelu 3D rzeźby na podstawie zdjęć |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@NorbertTrytek](https://github.com/NorbertTrytek)    | Kolorystyka w grafice komputerowej |
 | #11 | czwartek | 2023-12-14 | 13:30   |   [@KrawczykKamil](https://github.com/KrawczykKamil)                                                   | Grafika rastrowa i wektorowa              |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@nikolakozakiewicz02](https://github.com/nikolakozakiewicz02)| Wykorzystanie grafiki w marketingu               |
