@@ -23,7 +23,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | czwartek | 2023-11-30 | 13:30   | [@BartoszKarpiński](https://github.com/Wesero)        | Animacja 2D i 3D            |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@SikorskiKacper](https://github.com/whitedude99)     | Ewolucja montażu wideo: Od początków do dzisiaj |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@konradkarkosz](https://github.com/Zayooo00)         | Vercel                      |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@mateuszbizoń](https://github.com/mateuszbizon)      | Qwik                        |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@TR4by](https://github.com/TR4by)                    | Działanie silnika Unity     |
