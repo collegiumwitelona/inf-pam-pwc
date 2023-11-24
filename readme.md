@@ -22,7 +22,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #9  | czwartek | 2023-11-30 | 13:30   | [@WiktorDziurman](https://github.com/WiktorDziurman)  | Projekt autorskiego zestawu szachów 3D w stylu Steampunk i jego wydruk |
 | #9  | czwartek | 2023-11-30 | 13:30   | [@BartoszKarpiński](https://github.com/Wesero)        | Animacja 2D i 3D            |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@GrzegorzZielony](https://github.com/Grzegorz-Zielony)| Ewolucja Grafiki Komputerowej: Od Początków do Nowoczesności |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@SikorskiKacper](https://github.com/whitedude99)     | Ewolucja montażu wideo: Od początków do dzisiaj |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@konradkarkosz](https://github.com/Zayooo00)         | Vercel                      |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@mateuszbizoń](https://github.com/mateuszbizon)      | Qwik                        |
