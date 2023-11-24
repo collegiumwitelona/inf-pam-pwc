@@ -42,7 +42,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@UrszulaGręzicka](https://github.com/ursgre)         | Node.js                     |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@ŁukaszCiastoń](https://github.com/LukaszCaston)     | Infografika               |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 5               |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@MichałLange](https://github.com/MichalLange)        | Od Rzeczywistości do Komiksu: Tworzenie Postaci Komiksowych w Adobe Illustrator |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 1               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 2               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 3               |
