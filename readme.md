@@ -32,7 +32,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #11 | czwartek | 2023-12-14 | 13:30   |   [@KrawczykKamil](https://github.com/KrawczykKamil)                                                   | Grafika rastrowa i wektorowa              |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@nikolakozakiewicz02](https://github.com/nikolakozakiewicz02)| Wykorzystanie grafiki w marketingu               |
-| #11 | czwartek | 2023-12-14 | 13:30   | [@ŁukaszCiastoń](https://github.com/LukaszCaston)     | Infografika           |
+| #11 | czwartek | 2023-12-14 | 13:30   |                                                       |                             |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@adiko2602](https://github.com/adiko2602)            | NextAuth.js                 |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@JakubPisarski](https://github.com/JakubPisarski)     | Identyfikacja wizualna - zasady              |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@MateuszNieplowicz](https://github.com/Madoq)        | Cypress |
@@ -41,7 +41,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@UrszulaGręzicka](https://github.com/ursgre)         | Node.js                     |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 4               |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@ŁukaszCiastoń](https://github.com/LukaszCaston)     | Infografika               |
 | #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 5               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 1               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 2               |
