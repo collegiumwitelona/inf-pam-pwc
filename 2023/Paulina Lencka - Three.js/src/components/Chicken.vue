@@ -41,4 +41,3 @@ playAnimation(actions.Idle)
   </TresCanvas>
 </div>
 </template>
-  
