@@ -1,0 +1,21 @@
+{
+  "name": "threejs-slides",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --remote password123",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.44.0",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3",
+    "@tresjs/cientos": "^3.6.0",
+    "@tresjs/core": "^3.5.0",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.158.3"
+  }
+}
