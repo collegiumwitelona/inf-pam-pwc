@@ -15,35 +15,35 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #7  | czwartek | 2023-11-23 | 13:30   |                                                       | _przygotowanie prezentacji_ |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@sbanasiak](https://github.com/sbanasiak)            | Google Lighthouse           |
 | #8  | czwartek | 2023-11-30 | 13:30   | [@plencka](https://github.com/plencka)                | Three.js                    |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
-| #8  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 1               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 2               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 3               |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@MarcinJarosiński](https://github.com/R4phel)        | Kontrowersja w generowaniu obrazów AI |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@kbalicki14](https://github.com/kbalicki14)          | Flutter/GetX                |
+| #8  | czwartek | 2023-11-30 | 13:30   | [@WiktorPendowski](https://github.com/SUND1O)         | Przygotowanie modeli 3D do gier |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@OliwierJedrzejczak](https://github.com/jedrzejowsky)| ChatGPT               |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@WiktorDziurman](https://github.com/WiktorDziurman)  | Projekt autorskiego zestawu szachów 3D w stylu Steampunk i jego wydruk |
+| #9  | czwartek | 2023-11-30 | 13:30   | [@BartoszKarpiński](https://github.com/Wesero)        | Animacja 2D i 3D            |
 | #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 4               |
-| #9  | czwartek | 2023-11-30 | 13:30   |                                                       | prezentacja 5               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 1               |
+| #9  | czwartek | 2023-11-30 | 13:30   |                                                       |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@SikorskiKacper](https://github.com/whitedude99)     | Ewolucja montażu wideo: Od początków do dzisiaj |
 | #10 | czwartek | 2023-12-07 | 13:30   | [@konradkarkosz](https://github.com/Zayooo00)         | Vercel                      |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 3               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 4               |
-| #10 | czwartek | 2023-12-07 | 13:30   |                                                       | prezentacja 5               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 1               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 2               |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@mateuszbizoń](https://github.com/mateuszbizon)      | Qwik                        |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@TR4by](https://github.com/TR4by)                    | Działanie silnika Unity     |
+| #10 | czwartek | 2023-12-07 | 13:30   | [@DawidBogacz](https://github.com/xDHLx)              | Tworzenie modelu 3D rzeźby na podstawie zdjęć |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@NorbertTrytek](https://github.com/NorbertTrytek)    | Kolorystyka w grafice komputerowej |
+| #11 | czwartek | 2023-12-14 | 13:30   |   [@KrawczykKamil](https://github.com/KrawczykKamil)                                                   | Grafika rastrowa i wektorowa              |
 | #11 | czwartek | 2023-12-14 | 13:30   | [@JakubGelczyński](https://github.com/Gelczynski)     | Internet Rzeczy (IoT)       |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 4               |
-| #11 | czwartek | 2023-12-14 | 13:30   |                                                       | prezentacja 5               |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@nikolakozakiewicz02](https://github.com/nikolakozakiewicz02)| Wykorzystanie grafiki w marketingu               |
+| #11 | czwartek | 2023-12-14 | 13:30   | [@SewerynSzymański](https://github.com/B34TER)        | SignalR                     |
 | #12 | czwartek | 2023-12-21 | 13:30   | [@adiko2602](https://github.com/adiko2602)            | NextAuth.js                 |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 2               |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 3               |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 4               |
-| #12 | czwartek | 2023-12-21 | 13:30   |                                                       | prezentacja 5               |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@JakubPisarski](https://github.com/JakubPisarski)     | Identyfikacja wizualna - zasady              |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@MateuszNieplowicz](https://github.com/Madoq)        | Cypress |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@KozaPawel](https://github.com/KozaPawel)            | Monetyzacja gier |
+| #12 | czwartek | 2023-12-21 | 13:30   | [@MatArasim](https://github.com/MatArasim)            | Golang                      |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 2               |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 3               |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 4               |
-| #13 | czwartek | 2024-01-04 | 13:30   |                                                       | prezentacja 5               |
-| #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 1               |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@UrszulaGręzicka](https://github.com/ursgre)         | Node.js                     |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@ŁukaszCiastoń](https://github.com/LukaszCaston)     | Infografika               |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@MichałLange](https://github.com/MichalLange)        | Od Rzeczywistości do Komiksu: Tworzenie Postaci Komiksowych w Adobe Illustrator |
+| #14 | czwartek | 2024-01-11 | 13:30   |[@GrzegorzZielony](https://github.com/Grzegorz-Zielony)| Ewolucja Grafiki Komputerowej: Od Początków do Nowoczesności |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 2               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 3               |
 | #14 | czwartek | 2024-01-11 | 13:30   |                                                       | prezentacja 4               |
