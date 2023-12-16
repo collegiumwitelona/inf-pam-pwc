@@ -40,7 +40,7 @@ Przedmiot wybieralny C @ INF/PAM/PWSZ Legnica
 | #12 | czwartek | 2023-12-21 | 13:30   | [@MatArasim](https://github.com/MatArasim)            | Golang                      |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MarcinGołda](https://github.com/cobsei)             | Księga znaku i SIW          |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@BartłomiejWołyniec](https://github.com/Btwol)       | Blazor                      |
-| #13 | czwartek | 2024-01-04 | 13:30   | [@UrszulaGręzicka](https://github.com/ursgre)         | Node.js                     |
+| #13 | czwartek | 2024-01-04 | 13:30   | [@UrszulaGręzicka](https://github.com/ursgre)         | Inteligentny budynek        |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@ŁukaszCiastoń](https://github.com/LukaszCaston)     | Infografika               |
 | #13 | czwartek | 2024-01-04 | 13:30   | [@MichałLange](https://github.com/MichalLange)        | Od Rzeczywistości do Komiksu: Tworzenie Postaci Komiksowych w Adobe Illustrator |
 | #14 | czwartek | 2024-01-11 | 13:30   |[@GrzegorzZielony](https://github.com/Grzegorz-Zielony)| Ewolucja Grafiki Komputerowej: Od Początków do Nowoczesności |
